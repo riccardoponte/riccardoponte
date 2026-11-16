@@ -58,40 +58,20 @@ I love turning complex workflows into fast, practical software — from multi-ag
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-  <a href="https://github.com/riccardoponte/OmniPitch">
+  <a href="https://github.com/riccardoponte/trident---MSFT-Global-Intern-Hackaton">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-OmniPitch-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-OmniPitch-light.svg">
-      <img src="assets/card-OmniPitch-dark.svg" width="420" alt="OmniPitch">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-trident---MSFT-Global-Intern-Hackaton-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-trident---MSFT-Global-Intern-Hackaton-light.svg">
+      <img src="assets/card-trident---MSFT-Global-Intern-Hackaton-dark.svg" width="420" alt="TRIDENT">
     </picture>
   </a>
 </td>
-<td width="50%" align="center" valign="middle">
-  <a href="https://github.com/riccardoponte/trident-microsoft-global-intern-hackathon">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-trident-microsoft-global-intern-hackathon-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-trident-microsoft-global-intern-hackathon-light.svg">
-      <img src="assets/card-trident-microsoft-global-intern-hackathon-dark.svg" width="420" alt="TRIDENT">
-    </picture>
-  </a>
-</td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="middle">
   <a href="https://github.com/riccardoponte/Flowpilot-VS-Code">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Flowpilot-VS-Code-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Flowpilot-VS-Code-light.svg">
       <img src="assets/card-Flowpilot-VS-Code-dark.svg" width="420" alt="Flowpilot-VS-Code">
-    </picture>
-  </a>
-</td>
-<td width="50%" align="center" valign="middle">
-  <a href="https://github.com/riccardoponte/ASIN-Hunter">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ASIN-Hunter-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-ASIN-Hunter-light.svg">
-      <img src="assets/card-ASIN-Hunter-dark.svg" width="420" alt="ASIN-Hunter">
     </picture>
   </a>
 </td>
@@ -112,6 +92,26 @@ I love turning complex workflows into fast, practical software — from multi-ag
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-MarkItDown-Converter-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-MarkItDown-Converter-light.svg">
       <img src="assets/card-MarkItDown-Converter-dark.svg" width="420" alt="MarkItDown-Converter">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+  <a href="https://github.com/riccardoponte/Social-Web-Capture">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Social-Web-Capture-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Social-Web-Capture-light.svg">
+      <img src="assets/card-Social-Web-Capture-dark.svg" width="420" alt="Social-Web-Capture">
+    </picture>
+  </a>
+</td>
+<td width="50%" align="center" valign="middle">
+  <a href="https://github.com/riccardoponte/Koda.AI">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Koda.AI-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Koda.AI-light.svg">
+      <img src="assets/card-Koda.AI-dark.svg" width="420" alt="Koda.AI">
     </picture>
   </a>
 </td>
