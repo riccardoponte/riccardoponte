@@ -1,0 +1,31 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "OmniPitch",
+      "description": "Multi-agent live football broadcast written by specialized AI agents and fact-checked in real time by a Grounding Verifier (Microsoft x Premier League Hackathon)."
+    },
+    {
+      "repo": "trident-microsoft-global-intern-hackathon",
+      "language": "Python",
+      "description": "TRIDENT — Black-box multi-agent AI red-teaming accelerator mapped to OWASP LLM Top 10 & MITRE ATLAS, built on Copilot SDK, Microsoft Foundry and PyRIT."
+    },
+    {
+      "repo": "Flowpilot-VS-Code",
+      "description": "VS Code extension that records real browser flows and replays them via GitHub Copilot Agent + Playwright MCP, generating executive QA reports."
+    },
+    {
+      "repo": "ASIN-Hunter",
+      "description": "Chrome/Edge Manifest V3 extension published on the Chrome Web Store to track Amazon price history, variants, and Excel/CSV ASIN imports."
+    },
+    {
+      "repo": "Android-System-App-Uninstaller",
+      "description": "Native Kotlin + Jetpack Compose Android app with an embedded local ADB engine (TLS 1.3) to uninstall and restore system bloatware without Root."
+    },
+    {
+      "repo": "MarkItDown-Converter",
+      "language": "Python",
+      "description": "Windows desktop GUI built on Microsoft MarkItDown with offline multilingual PaddleOCR (PP-OCRv6 ONNX) to convert PDFs, Office docs, web pages and images to Markdown."
+    }
+  ]
+}

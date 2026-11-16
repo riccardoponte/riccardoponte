@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "AI & Agents",         "value": 90 },
+    { "label": "Python",              "value": 88 },
+    { "label": "JS / TypeScript",     "value": 86 },
+    { "label": "HTML / CSS / React",  "value": 85 },
+    { "label": "Automation & MCP",    "value": 88 },
+    { "label": "Chrome Extensions",   "value": 84 },
+    { "label": "Android (Kotlin)",    "value": 78 }
+  ]
+}

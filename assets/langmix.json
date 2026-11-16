@@ -1,0 +1,12 @@
+{
+  "title": "Language & Stack Mix",
+  "_comment": "Curated stack radar (0-100). Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "Python",      "value": 90 },
+    { "label": "JavaScript",  "value": 88 },
+    { "label": "TypeScript",  "value": 80 },
+    { "label": "React / HTML","value": 86 },
+    { "label": "Kotlin",      "value": 76 },
+    { "label": "C#",          "value": 70 }
+  ]
+}
